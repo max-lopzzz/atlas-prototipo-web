@@ -1,0 +1,38 @@
+Copyright (c) 2026 Top-Down Studios (Andrea, Gregor, Maximiliano, Oscar, Ximena)
+
+Todos los derechos reservados.
+
+Este repositorio contiene el prototipo web ("atlas-prototipo-web") del
+proyecto académico "ATLAS — Portal del Colaborador", desarrollado en el
+Tecnológico de Monterrey con el socio formador PeopleTech / Eslabón
+Systems (Módulo Kiosco). Es un entregable de referencia de UX/UI que
+acompaña al proyecto principal, disponible en el repositorio
+"atlas-portal-colaborador".
+
+Parte del contenido de este repositorio (por ejemplo, los datos y reglas
+de negocio usados en el visor de base de datos simulado) reproduce
+ejemplos tomados de una especificación proporcionada por el socio
+formador bajo un Acuerdo de Confidencialidad (NDA) firmado entre el
+equipo y el socio formador. En consecuencia:
+
+  1. Este repositorio debe permanecer PRIVADO mientras dure el proyecto y
+     mientras el NDA esté vigente. No debe hacerse público, forkearse a
+     una cuenta personal fuera del equipo, ni compartirse su contenido
+     con terceros sin autorización expresa del socio formador y del
+     profesor titular del curso.
+  2. No se otorga ningún permiso de uso, copia, modificación,
+     distribución o sublicenciamiento del código ni de los datos
+     contenidos en este repositorio a personas ajenas al equipo, al
+     socio formador o a la institución académica correspondiente.
+  3. Todos los datos de empleados, nómina, solicitudes y demás
+     información de negocio mostrados en el prototipo son simulados/dummy
+     con fines de demostración; cualquier coincidencia con datos reales
+     de la empresa es únicamente para ilustrar reglas de negocio
+     provistas por el socio formador.
+  4. Al finalizar el curso, el uso posterior de este código (por ejemplo,
+     para portafolio personal) debe consultarse primero con el socio
+     formador, dado el NDA vigente.
+
+No se utiliza una licencia de código abierto (MIT, Apache, GPL, etc.)
+para este repositorio, precisamente porque esas licencias otorgan
+permisos de redistribución incompatibles con el NDA firmado.
