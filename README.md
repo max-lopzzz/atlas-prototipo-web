@@ -15,10 +15,10 @@ El prototipo tiene 3 vistas, accesibles desde las pestañas de arriba:
 | Vista | Qué muestra |
 |---|---|
 | 🏢 **Hub** | La oficina 2D jugable — mueve tu avatar y entra a cada estación |
-| 📋 **Vista de lista** | Los 15 servicios como tarjetas, cargados vía un fetch simulado (patrón de API real) |
+| 📋 **Vista de lista** | Los 19 servicios como tarjetas, cargados vía un fetch simulado (patrón de API real) |
 | 🗄️ **Base de datos** | 5 tablas de datos simulados (Usuarios, Solicitudes, Nómina, Documentos, Tareas) |
 
-### Las 15 estaciones (todas funcionales, no solo descriptivas)
+### Las 19 estaciones (todas funcionales, no solo descriptivas)
 
 | Estación | Qué puedes hacer |
 |---|---|
@@ -37,8 +37,12 @@ El prototipo tiene 3 vistas, accesibles desde las pestañas de arriba:
 | Clock-in / Clock-out | Marcar entrada/salida, con racha de días |
 | Asistente de IA | Chat real con 3 NPCs especializados (Nomi · Nómina, Rita · Solicitudes, Dax · Documentos) |
 | Tienda de recompensas | Canjear puntos por recompensas — valida si te alcanza |
+| Prestaciones | IMSS, fondo de ahorro con barra de progreso, finiquito (informativo) |
+| Kardex de asistencia | Calendario mensual interactivo — cada día muestra su tipo (asistencia/descanso/festivo/permiso/vacaciones/incapacidad) por color y por letra, clic para el detalle |
+| Publicaciones RH | Noticias, avisos, comunicados, eventos y políticas, con filtros por tipo y banner de importantes |
+| Mis Colaboradores | Vista de supervisor: asistencia y avance de capacitación del equipo directo |
 
-Todas las acciones relevantes suman puntos al contador de arriba a la derecha (motor de gamificación compartido).
+Todas las acciones relevantes suman puntos al contador de arriba a la derecha (motor de gamificación compartido). Las últimas 4 estaciones se agregaron después de revisar un prototipo de referencia en Figma Make hecho por el equipo — se adaptaron al estilo visual del hub en vez de copiar su lenguaje de dashboard SaaS.
 
 ## Quién construyó qué
 
